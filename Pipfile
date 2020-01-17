@@ -16,6 +16,7 @@ sympy = "*"
 nose = "*"
 scikit-learn = "*"
 joblib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
